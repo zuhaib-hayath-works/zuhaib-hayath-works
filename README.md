@@ -1,11 +1,8 @@
-## Hi there 👋<div align="center">
-
-# Mohammed Zuhaib Hayath
+## Hi there 👋# Mohammed Zuhaib Hayath
 ### First-Year Computer Science and Engineering Student at VVCE
 
 Learning computer science fundamentals and developing practical skills through projects.
 
-</div>
 
 ---
 
